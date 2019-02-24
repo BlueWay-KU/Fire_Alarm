@@ -1,6 +1,6 @@
 hc06 ADDR : 00:18:E5:04:8F:13
 
-#TO DO LIST FOR QYUN
+# TO DO LIST FOR QYUN
 
 sudo hciconfig hci0 up
 hcitool scan
@@ -16,7 +16,7 @@ sudo rfcomm release 0 한번 작성 후 다시 connect 시도할 것
 연결되면 새 cmd 창 열어서 파이썬 코드 돌리기!
 
 
-#TO DO LIST FOR BEGINNER
+# TO DO LIST FOR BEGINNER
 
 sudo apt-get install python
 sudo apt-get install python-pip
